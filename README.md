@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<p><b>Homework given by the teacher. </p>
+<p><b>Homework given by the mentor. </p>
 </div>
 
 Active Link
